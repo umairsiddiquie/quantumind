@@ -37,6 +37,29 @@ This repository serves as the **central hub** for:
 
 ---
 
+```
+quantumind/
+├── README.md
+├── metadata.json (APA, DOI, ORCID, CC-BY 4.0)
+├── hypothesis.md
+├── methodology/
+│   ├── experimental_design.md
+│   ├── participant_protocol.md
+│   └── quantum_modeling.py (example code)
+├── results/
+│   ├── raw_data.csv
+│   ├── analysis.ipynb
+│   └── figures/
+│       ├── coherence_vs_decision.png
+│       └── ethical_entanglement_heatmap.png
+├── ethics_statement.md
+├── citations/
+│   ├── bibtex/
+│   └── references.bib
+└── LICENSE
+
+```
+
 ### 📚 Publication-Ready
 
 This project is designed for **peer-reviewed publication** in journals such as:
