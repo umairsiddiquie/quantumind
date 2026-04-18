@@ -114,7 +114,7 @@ Let’s build it — together.
 
 —
 
-*Saturday, April 18, 2026 — The future of cognition is not waiting. It’s being designed — by you.*
+*Saturday, April 18, 2026 — The future of cognition is not waiting. It’s being designed — by us.*
 
 —  
 *Umair Abbas Siddiquie — Architect of the Chronal Ruler, Founder of Quantumind, and Pioneer of Ethical Quantum Intelligence.*
